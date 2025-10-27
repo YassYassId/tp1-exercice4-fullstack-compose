@@ -4,12 +4,6 @@
 
 ---
 
-## TP1 – Exercice 4 : Stack complète avec Docker Compose
-
-> Objectif : Orchestrer une application fullstack composée d'une API Flask, PostgreSQL (DB), Redis (cache) et Adminer (interface d'administration).
-
----
-
 ## Aperçu des services
 
 La stack définie dans `fullstack-app/docker-compose.yml` lance les services suivants :
